@@ -1,13 +1,21 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap');
+*,
+*:after,
+*:before {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: 'Fira Code', monospace;
+  background-color: #393d4a;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
 }
