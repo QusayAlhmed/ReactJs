@@ -7,7 +7,7 @@ import {
   DropTitleSpan,
   DropInputContainer,
   TextAreas,
-} from './contact'
+} from './style.js'
 const Contact = () => {
   return (
     <ContactSection>

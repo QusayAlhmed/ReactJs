@@ -15,7 +15,7 @@ export const Logo = styled.div`
   @media (max-width: 991px) {
     width: 100%;
     float: none;
-  }
+  } ;
 `
 
 export const LogoText = styled.h2`
@@ -23,10 +23,6 @@ export const LogoText = styled.h2`
   font-weight: bold;
   color: #f1f1f1;
 `
-
-// .navbar input:checked ~ .ul-list {
-//     display: block;
-// }
 
 export const UlList = styled.ul`
   width: 50%;
@@ -37,7 +33,7 @@ export const UlList = styled.ul`
     float: none;
     margin-top: 20px;
     display: none;
-  }
+  } ;
 `
 
 export const ListItem = styled.li`
@@ -45,7 +41,7 @@ export const ListItem = styled.li`
   @media (max-width: 991px) {
     display: block;
     text-align: center;
-  }
+  } ;
 `
 
 export const Anchor = styled.a`

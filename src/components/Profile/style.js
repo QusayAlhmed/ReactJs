@@ -37,7 +37,7 @@ export const ProfileSpan = styled.span`
   font-weight: bold;
   color: #888;
   font-weight: ${(props) => (props.web ? 'normal' : '')};
-  color: ${(props) => (props.web ? '#eb5424' : '#f1f1f1')};
+  color: ${(props) => (props.web ? '#eb5424' : '')};
 `
 
 // .profile_skills .profile .profile-list .profile-item span.web {

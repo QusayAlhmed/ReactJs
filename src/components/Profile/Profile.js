@@ -34,7 +34,7 @@ const Profile = () => {
   })
   return (
     <ProfileSkills>
-      <div class='container'>
+      <div className='container'>
         <ProfileDiv>
           <ProfileTitle>
             <span>My </span>Profile
@@ -61,8 +61,8 @@ const Profile = () => {
               hamza@hamza.com
             </ProfileLi>
             <ProfileLi>
-              <span>Website: </span>
-              <span web>www.google.com</span>
+              <ProfileSpan>Website: </ProfileSpan>
+              <ProfileSpan web>www.google.com</ProfileSpan>
             </ProfileLi>
           </ProfileUl>
         </ProfileDiv>

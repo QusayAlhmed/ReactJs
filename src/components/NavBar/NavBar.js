@@ -1,14 +1,6 @@
 import React from 'react'
 
-import {
-  NavBar,
-  Logo,
-  LogoText,
-  UlList,
-  Anchor,
-  ListItem,
-  NavLinks,
-} from './style'
+import { NavBar, Logo, LogoText, UlList, NavLinks, ListItem } from './style'
 
 const Navbar = () => {
   return (
@@ -20,21 +12,19 @@ const Navbar = () => {
 
         <UlList>
           <ListItem>
-            <NavLinks anchor to='/'>
-              Home
-            </NavLinks>
+            <NavLinks to='/'>Home</NavLinks>
           </ListItem>
           <ListItem>
-            <Anchor>Work</Anchor>
+            <NavLinks to='/work'>Work</NavLinks>
           </ListItem>
           <ListItem>
-            <Anchor>Portfolio</Anchor>
+            <NavLinks to='/portofolio'>Portfolio</NavLinks>
           </ListItem>
           <ListItem>
-            <Anchor>Resume</Anchor>
+            <NavLinks to='/resume'>Resume</NavLinks>
           </ListItem>
           <ListItem>
-            <Anchor>About</Anchor>
+            <NavLinks to='/about'>About</NavLinks>
           </ListItem>
           <ListItem>
             <NavLinks to='/contact'>Contact</NavLinks>
