@@ -52,35 +52,35 @@
   "portfolio": [
     {
       "id": 1,
-      "image": "/images/portfolio-img1.jpg"
+      "image": "https://i.imgur.com/x29RdGu.jpg"
     },
     {
       "id": 2,
-      "image": "/images/portfolio-img2.jpg"
+      "image": "https://i.imgur.com/tB4wTE9.jpg"
     },
     {
       "id": 3,
-      "image": "/images/portfolio-img3.jpg"
+      "image": "https://i.imgur.com/rnLTlkI.jpg"
     },
     {
       "id": 4,
-      "image": "/images/portfolio-img4.jpg"
+      "image": "https://i.imgur.com/3dfrdKQ.jpg"
     },
     {
       "id": 5,
-      "image": "/images/portfolio-img5.jpg"
+      "image": "https://i.imgur.com/5gJRsc3.jpg"
     },
     {
       "id": 6,
-      "image": "/images/portfolio-img6.jpg"
+      "image": "https://i.imgur.com/Hy9kGGk.jpg"
     },
     {
       "id": 7,
-      "image": "/images/portfolio-img4.jpg"
+      "image": "https://i.imgur.com/EOOpi8c.jpg"
     },
     {
       "id": 8,
-      "image": "/images/portfolio-img8.jpg"
+      "image": "https://i.imgur.com/AfRoNSE.jpg"
     }
   ],
   "social": [
