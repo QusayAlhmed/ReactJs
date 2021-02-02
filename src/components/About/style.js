@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 export const CreativSection = styled.section`
   height: 500px;
-  background: url('../images/creative/about-bg.jpg');
+  background: url('https://i.imgur.com/66nS3d1.jpg');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
